@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Aurora Smart Watch",
+    "image": "https://images.unsplash.com/photo-1509395176047-4a66953fd231",
+    "description": "Track your fitness in style.",
+    "price": 129.99,
+    "category": "Electronics",
+    "isFeature": true
+  },
+  {
+    "id": 2,
+    "name": "Luna Headphones",
+    "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167",
+    "description": "Immersive noise‑cancelling sound.",
+    "price": 89.5,
+    "category": "Electronics",
+    "isFeature": false
+  },
+  {
+    "id": 3,
+    "name": "Vintage Denim Jacket",
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f",
+    "description": "Classic denim with modern twist.",
+    "price": 59.99,
+    "category": "Fashion",
+    "isFeature": true
+  },
+  {
+    "id": 4,
+    "name": "EcoSmart Water Bottle",
+    "image": "https://images.unsplash.com/photo-1564869733509-bf58dd8f4573",
+    "description": "Eco‑friendly, BPA‑free bottle.",
+    "price": 19.95,
+    "category": "Home",
+    "isFeature": false
+  },
+  {
+    "id": 5,
+    "name": "Wireless Charger Pad",
+    "image": "https://images.unsplash.com/photo-1580894908354-70a1795173d4",
+    "description": "Cord‑free charging station.",
+    "price": 25.99,
+    "category": "Electronics",
+    "isFeature": true
+  },
+  {
+    "id": 6,
+    "name": "Minimalist Leather Wallet",
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9",
+    "description": "Sleek leather everyday wallet.",
+    "price": 39.99,
+    "category": "Fashion",
+    "isFeature": false
+  },
+  {
+    "id": 7,
+    "name": "Noise Therapy Machine",
+    "image": "https://images.unsplash.com/photo-1524253482453-3fed8d2fe12b",
+    "description": "White‑noise for better sleep.",
+    "price": 45.0,
+    "category": "Health",
+    "isFeature": false
+  },
+  {
+    "id": 8,
+    "name": "Smart LED Light Bulb",
+    "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8",
+    "description": "Voice‑controlled lighting.",
+    "price": 15.99,
+    "category": "Home",
+    "isFeature": true
+  },
+  {
+    "id": 9,
+    "name": "Cotton Crewneck T‑Shirt",
+    "image": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e",
+    "description": "Soft cotton tee in multiple colors.",
+    "price": 14.99,
+    "category": "Fashion",
+    "isFeature": false
+  },
+  {
+    "id": 10,
+    "name": "Portable Mini Projector",
+    "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+    "description": "Compact home theater projector.",
+    "price": 99.0,
+    "category": "Electronics",
+    "isFeature": true
+  },
+  {
+    "id": 11,
+    "name": "Aromatherapy Oil Diffuser",
+    "image": "https://images.unsplash.com/photo-1504198458649-3128b932f49b",
+    "description": "Fill your space with calming scent.",
+    "price": 29.99,
+    "category": "Health",
+    "isFeature": true
+  },
+  {
+    "id": 12,
+    "name": "Foldable Yoga Mat",
+    "image": "https://images.unsplash.com/photo-1554284126-3e8899f5e8f7",
+    "description": "Non‑slip eco workout mat.",
+    "price": 34.95,
+    "category": "Health",
+    "isFeature": false
+  },
+  {
+    "id": 13,
+    "name": "Bluetooth Speaker Cube",
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+    "description": "Portable cube with rich bass.",
+    "price": 44.5,
+    "category": "Electronics",
+    "isFeature": false
+  },
+  {
+    "id": 14,
+    "name": "Magnetic Phone Mount",
+    "image": "https://images.unsplash.com/photo-1512499617640-c2f9992a2f2b",
+    "description": "Dashboard phone mount.",
+    "price": 10.99,
+    "category": "Electronics",
+    "isFeature": true
+  },
+  {
+    "id": 15,
+    "name": "Canvas Backpack",
+    "image": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f",
+    "description": "Durable school/travel backpack.",
+    "price": 49.99,
+    "category": "Fashion",
+    "isFeature": true
+  },
+  {
+    "id": 16,
+    "name": "Silicone Utensils Set",
+    "image": "https://images.unsplash.com/photo-1532634726-8b9fb998f60a",
+    "description": "Non‑stick kitchen essentials.",
+    "price": 24.95,
+    "category": "Home",
+    "isFeature": false
+  },
+  {
+    "id": 17,
+    "name": "Fitness Tracker Band",
+    "image": "https://images.unsplash.com/photo-1510771463146-e89e4e3e7762",
+    "description": "Monitor steps, heart rate, sleep.",
+    "price": 54.9,
+    "category": "Health",
+    "isFeature": true
+  },
+  {
+    "id": 18,
+    "name": "Insulated Travel Mug",
+    "image": "https://images.unsplash.com/photo-1525382455947-f319bc05b4b5",
+    "description": "Keeps drinks hot or cold.",
+    "price": 21.5,
+    "category": "Home",
+    "isFeature": false
+  },
+  {
+    "id": 19,
+    "name": "LED Ring Light Kit",
+    "image": "https://images.unsplash.com/photo-1540575464180-2a0f9d84bc6e",
+    "description": "Perfect lighting for content creators.",
+    "price": 72.0,
+    "category": "Electronics",
+    "isFeature": true
+  },
+  {
+    "id": 20,
+    "name": "Travel Organizer Pouch Set",
+    "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e",
+    "description": "6‑piece pack for neat travelers.",
+    "price": 17.99,
+    "category": "Fashion",
+    "isFeature": false
+  }
+]
