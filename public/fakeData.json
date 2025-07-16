@@ -27,39 +27,12 @@
     "isFeature": true
   },
   {
-    "id": 4,
-    "name": "EcoSmart Water Bottle",
-    "image": "https://images.unsplash.com/photo-1564869733509-bf58dd8f4573",
-    "description": "Eco‑friendly, BPA‑free bottle.",
-    "price": 19.95,
-    "category": "Home",
-    "isFeature": false
-  },
-  {
-    "id": 5,
-    "name": "Wireless Charger Pad",
-    "image": "https://images.unsplash.com/photo-1580894908354-70a1795173d4",
-    "description": "Cord‑free charging station.",
-    "price": 25.99,
-    "category": "Electronics",
-    "isFeature": true
-  },
-  {
     "id": 6,
     "name": "Minimalist Leather Wallet",
     "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9",
     "description": "Sleek leather everyday wallet.",
     "price": 39.99,
     "category": "Fashion",
-    "isFeature": false
-  },
-  {
-    "id": 7,
-    "name": "Noise Therapy Machine",
-    "image": "https://images.unsplash.com/photo-1524253482453-3fed8d2fe12b",
-    "description": "White‑noise for better sleep.",
-    "price": 45.0,
-    "category": "Health",
     "isFeature": false
   },
   {
@@ -89,24 +62,7 @@
     "category": "Electronics",
     "isFeature": true
   },
-  {
-    "id": 11,
-    "name": "Aromatherapy Oil Diffuser",
-    "image": "https://images.unsplash.com/photo-1504198458649-3128b932f49b",
-    "description": "Fill your space with calming scent.",
-    "price": 29.99,
-    "category": "Health",
-    "isFeature": true
-  },
-  {
-    "id": 12,
-    "name": "Foldable Yoga Mat",
-    "image": "https://images.unsplash.com/photo-1554284126-3e8899f5e8f7",
-    "description": "Non‑slip eco workout mat.",
-    "price": 34.95,
-    "category": "Health",
-    "isFeature": false
-  },
+
   {
     "id": 13,
     "name": "Bluetooth Speaker Cube",
@@ -116,15 +72,7 @@
     "category": "Electronics",
     "isFeature": false
   },
-  {
-    "id": 14,
-    "name": "Magnetic Phone Mount",
-    "image": "https://images.unsplash.com/photo-1512499617640-c2f9992a2f2b",
-    "description": "Dashboard phone mount.",
-    "price": 10.99,
-    "category": "Electronics",
-    "isFeature": true
-  },
+
   {
     "id": 15,
     "name": "Canvas Backpack",
@@ -134,42 +82,7 @@
     "category": "Fashion",
     "isFeature": true
   },
-  {
-    "id": 16,
-    "name": "Silicone Utensils Set",
-    "image": "https://images.unsplash.com/photo-1532634726-8b9fb998f60a",
-    "description": "Non‑stick kitchen essentials.",
-    "price": 24.95,
-    "category": "Home",
-    "isFeature": false
-  },
-  {
-    "id": 17,
-    "name": "Fitness Tracker Band",
-    "image": "https://images.unsplash.com/photo-1510771463146-e89e4e3e7762",
-    "description": "Monitor steps, heart rate, sleep.",
-    "price": 54.9,
-    "category": "Health",
-    "isFeature": true
-  },
-  {
-    "id": 18,
-    "name": "Insulated Travel Mug",
-    "image": "https://images.unsplash.com/photo-1525382455947-f319bc05b4b5",
-    "description": "Keeps drinks hot or cold.",
-    "price": 21.5,
-    "category": "Home",
-    "isFeature": false
-  },
-  {
-    "id": 19,
-    "name": "LED Ring Light Kit",
-    "image": "https://images.unsplash.com/photo-1540575464180-2a0f9d84bc6e",
-    "description": "Perfect lighting for content creators.",
-    "price": 72.0,
-    "category": "Electronics",
-    "isFeature": true
-  },
+
   {
     "id": 20,
     "name": "Travel Organizer Pouch Set",
@@ -178,5 +91,52 @@
     "price": 17.99,
     "category": "Fashion",
     "isFeature": false
+  },
+
+  {
+    "id": 4,
+    "name": "Skyline Smart Glasses",
+    "image": "./keegan-houser--Q_t4SCN8c4-unsplash.jpg",
+    "description": "Stay connected in style with voice-controlled smart glasses.",
+    "price": 199.99,
+    "category": "Electronics",
+    "isFeature": true
+  },
+  {
+    "id": 7,
+    "name": "Ocean Blue Hoodie",
+    "image": "./nikolai-lehmann-05cDX4y2oJ8-unsplash.jpg",
+    "description": "Cozy and soft hoodie perfect for chill evenings.",
+    "price": 49.99,
+    "category": "Fashion",
+    "isFeature": false
+  },
+  {
+    "id": 11,
+    "name": "Bamboo Cutting Board Set",
+    "image": "./sardar-kamran-khan-DpJfF6l80Yk-unsplash.jpg",
+    "description": "Durable and eco-friendly kitchen essentials.",
+    "price": 24.5,
+    "category": "Home",
+    "isFeature": false
+  },
+  {
+    "id": 12,
+    "name": "Zen Aroma Diffuser",
+    "image": "./teodor-drobota-uyyRJA2an4o-unsplash.jpg",
+    "description": "Create a calming atmosphere with essential oils.",
+    "price": 34.95,
+    "category": "Health",
+    "isFeature": true
+  },
+  {
+    "id": 14,
+    "name": "Compact Travel Pouch",
+    "image": "./zen-summer-lk3F07BN8T8-unsplash.jpg",
+    "description": "Keep your essentials organized while traveling.",
+    "price": 12.99,
+    "category": "Fashion",
+    "isFeature": false
   }
 ]
+
