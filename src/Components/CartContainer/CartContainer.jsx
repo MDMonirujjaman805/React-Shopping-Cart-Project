@@ -5,6 +5,8 @@ import About from "../About/About";
 const CartContainer = ({
   handleIsActiveStatus,
   isActive,
+  selectedProduct,
+  handleDelete,
 }) => {
   return (
     <div>
@@ -24,11 +26,14 @@ const CartContainer = ({
         </button>
       </div>
       <div className="mt-3 space-y-2 font-bold text-2xl bg-gray-100 p-5 rounded-3xl">
-        {
-            isActive.cart?<Cart></Cart>:<About></About>
-        }
-     
-      
+        {isActive.cart ? (
+          <Cart
+            handleDelete={handleDelete}
+            selectedProduct={selectedProduct}
+          ></Cart>
+        ) : (
+          <About></About>
+        )}
       </div>
     </div>
   );
